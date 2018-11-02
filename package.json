@@ -1,0 +1,14 @@
+{
+  "name": "terabot",
+  "version": "1.0.0",
+  "description": "Bot discord du serveur TeraCube",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Zips Tuto/Gaming",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
