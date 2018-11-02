@@ -1,0 +1,17 @@
+{
+  "name": "terabot",
+  "version": "1.0.0",
+  "description": "Bot du server discord TeraCube",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.27.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "Antoine2lop",
+  "license": "ISC"
+}
